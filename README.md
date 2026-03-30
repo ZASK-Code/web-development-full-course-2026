@@ -9,7 +9,7 @@ Here you will find all lesson files, projects, and exercises linked with the You
 |--------|---------|------------------|
 | Lesson 01 | Getting Started - Introduction | https://youtu.be/-Fx6oMxmzaI?si=cB7jaRxoWqdHpH55 |
 | Lesson 02 | How the Web Works (Internet vs Web Explained) | https://youtu.be/jEBsleMEhNo?si=L43-oCTs4kGoM-kg |
-| Lesson 03 | Links & Images - Using links and images |  |
+| Lesson 03 | VS Code Setup | https://youtu.be/xW-K0gv8Hek?si=uaC4GTXwse9cMPv- |
 | Lesson 04 | CSS Basics - Introduction to CSS |  |
 | Lesson 05 | Layouts - Page layout techniques |  |
 | Lesson 06 | Forms & Inputs - Creating forms and inputs |  |
