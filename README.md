@@ -12,7 +12,7 @@ Here you will find all lesson files, projects, and exercises linked with the You
 | Lesson 03 | VS Code Setup | https://youtu.be/xW-K0gv8Hek?si=uaC4GTXwse9cMPv- |
 | Lesson 04 | HTML - Page Structure Explaind | https://youtu.be/tO2myHUVOYM?si=K7rzsqTvv2mb5JLU |
 | Lesson 05 | HTML - Headings & Paragraphs Explaind | https://youtu.be/IC-Ii0V5NxA?si=CZEnbtOx5Zs5T3F6 |
-| Lesson 06 | HTML - Anchor Tags (Internal vs External) Links Explaind |  |
+| Lesson 06 | HTML - Anchor Tags (Internal vs External) Links Explaind | https://youtu.be/sU6IXuoqnaU?si=wNrPEJC0HTosk4Kg |
 
 > Note: Each lesson has its own README.md file inside its folder where you can add the video link directly.
 
