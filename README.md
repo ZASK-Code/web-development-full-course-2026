@@ -10,8 +10,8 @@ Here you will find all lesson files, projects, and exercises linked with the You
 | Lesson 01 | Getting Started - Introduction | https://youtu.be/-Fx6oMxmzaI?si=cB7jaRxoWqdHpH55 |
 | Lesson 02 | How the Web Works (Internet vs Web Explained) | https://youtu.be/jEBsleMEhNo?si=L43-oCTs4kGoM-kg |
 | Lesson 03 | VS Code Setup | https://youtu.be/xW-K0gv8Hek?si=uaC4GTXwse9cMPv- |
-| Lesson 04 | CSS Basics - Introduction to CSS |  |
-| Lesson 05 | Layouts - Page layout techniques |  |
+| Lesson 04 | HTML | Page Structure Explaind | https://youtu.be/tO2myHUVOYM?si=K7rzsqTvv2mb5JLU |
+| Lesson 05 | HTML | Headings & Paragraphs Explaind | https://youtu.be/IC-Ii0V5NxA?si=CZEnbtOx5Zs5T3F6 |
 | Lesson 06 | Forms & Inputs - Creating forms and inputs |  |
 
 > Note: Each lesson has its own README.md file inside its folder where you can add the video link directly.
